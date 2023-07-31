@@ -1,0 +1,7 @@
+zipp==3.16
+langchain==0.0.215
+gpt4all==0.3.6
+pypdf
+chromadb==0.3.26
+sentence_transformers
+InstructorEmbeddingzz
