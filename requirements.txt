@@ -1,7 +1,14 @@
-zipp==3.16
-langchain==0.0.215
-gpt4all==0.3.6
+zipp==3.15
+langchain==0.0.268
+gpt4all==1.0.8
 pypdf==3.13.0
 chromadb==0.3.26
 sentence_transformers==2.2.2
 InstructorEmbedding==1.0.1
+doctran
+fastapi
+uvicorn==0.15.0
+timm==0.4.12
+pyngrok==5.1.0
+nest-asyncio==1.5.4
+redis
