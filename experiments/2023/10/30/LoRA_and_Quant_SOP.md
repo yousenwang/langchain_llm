@@ -174,3 +174,16 @@ Dataset({
     num_rows: 6
 })
 ```
+
+```py
+dataset[0]
+
+{'question': '如何跳轉到指定工站？',
+ 'answer': '需要登錄管理員帳號, 服務中心後臺->進度管控->進度維護, 進入【保修項目】分頁, 勾選對應產品序號, 下拉【維修操作】點擊【進度維護】, 選擇【跳轉至指定工站】即可進行跳轉.'}
+```
+
+## Reference
+
+https://huggingface.co/docs/transformers/v4.32.1/en/main_classes/quantization#fp4-quantization
+
+https://huggingface.co/docs/peft/conceptual_guides/lora
